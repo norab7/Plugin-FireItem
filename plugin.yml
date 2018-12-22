@@ -1,0 +1,10 @@
+main: baron.rol.main.FireItemMain
+name: FireItem
+version: 1.0
+api-version: 1.13
+author: norab7
+description: Converts an Item from one to another using a fire block
+commands:
+  /fireItem:
+    description: Test that the plugin is loaded correctly
+    usage: //fireItem

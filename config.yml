@@ -1,0 +1,24 @@
+author: norab7
+items:
+  BEEF:
+    base: BEEF
+    fired: COOKED_BEEF
+  CHICKEN:
+    base: CHICKEN
+    fired: COOKED_CHICKEN
+  COD: 
+    base: COD
+    fired: COOKED_COD
+  MUTTON:
+    base: MUTTON
+    fired: COOKED_MUTTON
+  PORKCHOP: 
+    base: PORKCHOP
+    fired: COOKED_PORKCHOP
+  RABBIT: 
+    base: RABBIT
+    fired: COOKED_RABBIT
+  SALMON: 
+    base: SALMON
+    fired: COOKED_SALMON
+  
